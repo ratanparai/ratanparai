@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Mastodon: <a rel="me" href="https://infosec.exchange/@ratanparai">@ratanparai@infosec.exchange</a>
-
 <!--
 **ratanparai/ratanparai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
